@@ -19,5 +19,12 @@
     type = "builtin",
     modules = {
        netutil = "src/netutil.lua",
+       captcha = "src/captcha.lua",
+       caputil = "src/caputil.lua",
+       exp =     "src/exp.lua",
+       batch =   "src/batch.lua",
+       cnnmodels =   "src/cnnmodels.lua",
+       residual =   "src/residual.lua",
+       MultiCrossEntropyCriterion =   "src/MultiCrossEntropyCriterion.lua",
     }
  }
